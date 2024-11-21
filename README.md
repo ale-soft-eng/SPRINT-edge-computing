@@ -1,19 +1,18 @@
 # FIAP CHALLENGE 2024 - Fórmula E & TECH Mahindra 
-![image](https://github.com/user-attachments/assets/722301ee-6d7f-4837-9187-7def48d1167b)
+![image](https://github.com/user-attachments/assets/8581f100-f2b5-4099-9d6d-29a3880fb077)
+
 
 ## Engenharia de Software - 2º SEMESTRE  
 ### Disciplina:  Edge Computing
 
 #### Integrantes do grupo:
-- Léo Masago RM:557768
-- Herbert Souza RM: 555701
 - Alexandre Assis RM: 558927
-- Eduardo Tomazela RM: 556807
+- Herbert Souza RM: 555701
 - Gustavo Ramalho RM: 554582
 
 
-## 💡 Projeto: Controle de Motor via MQTT
-Este projeto implementa um sistema de controle de motor utilizando a comunicação MQTT. Um dispositivo Arduino se conecta a uma rede Wi-Fi e se comunica com um broker MQTT. O usuário pode enviar comandos de direção e velocidade para o motor através do broker MQTT, e o Arduino controla o motor de acordo com os comandos recebidos.
+## 💡 Projeto: Energi+ - Monitor de Gasto de Energia
+Este projeto implementa um sistema de monitoramento
 
 #### Hardware
 - Arduino (modelo específico)
